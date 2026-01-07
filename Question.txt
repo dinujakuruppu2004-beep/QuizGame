@@ -1,0 +1,60 @@
+1. What is the correct syntax to print "Hello, World!" in Python?  
+ A) print("Hello, World!")  
+ B) echo("Hello, World!")  
+ C) printf("Hello, World!")  
+ D) console.log("Hello, World!")  
+ A  
+2. Which of the following is a valid variable name in Python?  
+ A) 1variable  
+ B) var-name  
+ C) _myvar  
+ D) global  
+ C  
+3. How do you create a list in Python?  
+ A) list = (1, 2, 3)  
+ B) list = [1, 2, 3]  
+ C) list = {1, 2, 3}  
+ D) list = <1, 2, 3>  
+ B  
+4. What is the output of `print(type(5.0))`?  
+ A) <class 'int'>  
+ B) <class 'float'>  
+ C) <class 'double'>  
+ D) <class 'number'>  
+ B  
+5. Which method is used to remove an item from a list?  
+ A) delete()  
+ B) pop()  
+ C) remove()  
+ D) Both B and C  
+ D  
+6. What is the correct way to check if a key exists in a dictionary?  
+ A) if key in dict:  
+ B) if dict.exists(key):  
+ C) if dict.has_key(key):  
+ D) if key in dict.keys():  
+ A  
+7. Which keyword is used to define a function in Python?  
+ A) def  
+ B) function  
+ C) lambda  
+ D) func  
+ A  
+8. What does `"hello".upper()` return?  
+ A) "HELLO"  
+ B) "Hello"  
+ C) "hello"  
+ D) Error  
+ A  
+9. Which operator is used for exponentiation in Python?  
+ A) ^  
+ B) **  
+ C) //  
+ D) %%  
+ B  
+10. Which method adds an element to the end of a list?  
+ A) list.insert()  
+ B) list.append()  
+ C) list.add()  
+ D) list.push()  
+ B  
